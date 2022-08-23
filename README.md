@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My first (updated) readme
 =======
 #Demo
+=======
+>>>>>>> e71bb713fb2ff078b1060023165a902012b417ba
 
 My first (updated) readme
 
